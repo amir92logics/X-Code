@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap');
 
 /* Main color */
 :root {
@@ -37,7 +37,7 @@ body {
     color: var(--black);
     font-weight: 400;
     user-select: none;
-    font-family: 'DM Sans', sans-serif !important;
+    font-family: 'Poppins', sans-serif !important;
 }
 
 div,
@@ -133,7 +133,7 @@ textarea:focus {
     line-height: 88px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .heading2 {
@@ -141,7 +141,7 @@ textarea:focus {
     line-height: 68px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .heading3 {
@@ -149,7 +149,7 @@ textarea:focus {
     line-height: 52px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .heading4 {
@@ -157,7 +157,7 @@ textarea:focus {
     line-height: 40px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .heading5 {
@@ -165,14 +165,14 @@ textarea:focus {
     line-height: 32px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .heading6 {
     font-size: 20px;
     line-height: 28px;
     font-weight: 600;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .text-title {
@@ -180,7 +180,7 @@ textarea:focus {
     line-height: 28px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .text-button {
@@ -189,14 +189,14 @@ textarea:focus {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1.28px;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .text-button-sm {
     font-size: 14px;
     line-height: 22px;
     font-weight: 600;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .body2 {
@@ -223,7 +223,7 @@ textarea:focus {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.96px;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
 }
 
 .button-main {
@@ -231,7 +231,7 @@ textarea:focus {
     line-height: 24px;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: "Jost", '__Jost_f47db6';
+    font-family: "Poppins";
     letter-spacing: 1.28px;
     color: var(--white);
     background-color: var(--primary);

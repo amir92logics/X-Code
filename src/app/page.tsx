@@ -20,8 +20,9 @@ const Home = () => {
       <div className="page-one overflow-x-hidden">
         <HeaderOne />
         <SliderOne />
-        <LocationOne />
         <CategoryOne />
+
+        <LocationOne /> 
         <RecommendOne data={tentData} start={10} end={18} />
         <BecomeHost />
         <Amenities />

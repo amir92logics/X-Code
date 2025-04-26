@@ -107,7 +107,7 @@ const SliderOne = () => {
             <div className="slider-block style-one relative h-[620px]">
                 <div className="bg-img absolute top-0 left-0 w-full h-full">
                     <Image
-                        src={'/images/slider/slider-home1.png'}
+                        src={'/images/slider/slider-h1.png'}
                         width={4000}
                         height={3000}
                         alt='slider'
